@@ -2,6 +2,7 @@
 
 **Overview:** The field of machine learning (ML) within artificial intelligence is concerned with creating models and algorithms that enable computers to learn from and make decisions based on data. ML systems enhance their performance by examining patterns and insights in big datasets, as opposed to being specifically coded for every task.
 
+https://github.com/user-attachments/assets/8989c7ea-b514-480d-8a7f-76f05e435352
 ---
 
 ## Diagnostics that Predict in Healthcare
